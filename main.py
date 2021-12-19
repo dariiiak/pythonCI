@@ -61,3 +61,4 @@ res_time_test2 = time.time() - start_time
 print("--- %s seconds ---" % (res_time_test2))
 
 print(f'Со вторым файлом большего размера программа работает медленнее на {res_time_test2 - res_time_test}')
+#
