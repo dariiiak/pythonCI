@@ -1,4 +1,4 @@
-[![Build Status - GitHub](https://github.com/dariiiak/pythonCI/workflows/pytesting/badge.svg)](https://github.com/dariiiak/pythonCI/actions/workflows/main.yml)
+[![Build Status - GitHub](https://github.com/dariiiak/pythonCI/workflows/pytestandsend/badge.svg)](https://github.com/dariiiak/pythonCI/actions/workflows/main.yml)
 
 
 # Код программы
